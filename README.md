@@ -1,5 +1,7 @@
 ### Blockchain-and-Cryptocurrency-Creation
 
+**Please give it a Star if you like it :)**
+
 ## Create a Simple Blockchain
 
 **To be installed:**
@@ -102,6 +104,9 @@ After the code is compiled to test the blockchain we need to go to postman or an
 **/add\_transaction:** To add transaction.
 
 **/replace\_chain:** To replace the chain with longest chain among the nodes.
+
+
+*Click On the Icon below to visit my github & LinkedIn profile*
 
 [1]: https://github.com/sonusingh99
 [2]: https://www.linkedin.com/in/sonu-singh-346988152/ 
